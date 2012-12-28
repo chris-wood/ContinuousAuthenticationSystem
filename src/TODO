@@ -1,0 +1,31 @@
+Required:
+---1. Port feature extraction code to python and test for correctness...
+---2. Port Nate's code into the feature extraction template...
+---3. Get the keylogger running and outputting the correct data in Linux...
+---4. Have the feature extractor output CSV contents as Profile objects that are used to update the DATABASE (EDIT: it now stores everything as a list).
+---5. Implement the adaptive user model scheme
+---6. Figure out how user models will be stored (sqlite database? database traversed on every check?) (EDIT: CSV file to start, SQLite database later)
+---7. Implement classifier that loads database and checks against all other users
+---8. Implement the trainer class that stores initial user profiles in the database
+---9. Test trainer class with feature extraction and user profile creation 
+---10. Remove outliers for n < 5 and store average, pick median for n > 5 samples
+---11. Remove similar features between users
+---12. Test the system with friends (see if there is a difference in typing patterns about things in their brain or things transcribed)
+---13. Implement classifier mode to write the aggregate log to a file with a sequence number, and then use this to collect logs to run through Weka
+
+14. Collect all samples from all users and run classification (the problem is that my dataset is too small right now, I think)...
+
+----
+Deadlines:
+---1. Required #1/2/3 done by 9/28/12
+---2. Required #4 done by 9/30/12 
+---3. Finish #5/8/9 by Monday (1st or 31st)
+---4. Finish 10/11 by Friday, 10/19
+---5. Email friends about gathering test data for prescribed text
+	(Mom, Dad, Jessica, Bob, Anthony, Greg, Ian, Dan, Marc, Jeff, Ed, Brandon, Kaitlin, Edwin, Kaitlin's mom, Kaitlin's dad, Marcin, Staszek, Jim)
+
+-----
+Experiments: (TODO: select fixed set of classification algorithms to use)
+---1. Run different "scenario" experiments on users, and compute difference between these user profiles
+---2. Determine most effective classifier for each feature set (report data using Weka)
+---3. Change features that are extracted and measure classification improvement 

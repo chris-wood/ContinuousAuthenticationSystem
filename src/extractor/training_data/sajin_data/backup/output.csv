@@ -1,0 +1,15 @@
+all_data/sajin_data/sajin_test2_-10-23-12_21-51-42.log.csv,all_data/sajin_data/sajin_test3_-10-23-12_21-59-36.log.csv,euclidean,1155.14506268
+all_data/sajin_data/sajin_test2_-10-23-12_21-51-42.log.csv,all_data/sajin_data/sajin_test3_-10-23-12_21-59-36.log.csv,city,491170.681696
+all_data/sajin_data/sajin_test2_-10-23-12_21-51-42.log.csv,all_data/sajin_data/sajin_test3_-10-23-12_21-59-36.log.csv,chebychev,480720.0
+all_data/sajin_data/sajin_test2_-10-23-12_21-51-42.log.csv,all_data/sajin_data/sajin_test3_-10-23-12_21-59-36.log.csv,cosine,0.36986822569
+all_data/sajin_data/sajin_test2_-10-23-12_21-51-42.log.csv,all_data/sajin_data/sajin_test3_-10-23-12_21-59-36.log.csv,correlation,-2.22044604925e-16
+all_data/sajin_data/sajin_test2_-10-23-12_21-51-42.log.csv,all_data/sajin_data/sajin_test4_-10-23-12_22-08-55.log.csv,euclidean,782.095739989
+all_data/sajin_data/sajin_test2_-10-23-12_21-51-42.log.csv,all_data/sajin_data/sajin_test4_-10-23-12_22-08-55.log.csv,city,1009204.16704
+all_data/sajin_data/sajin_test2_-10-23-12_21-51-42.log.csv,all_data/sajin_data/sajin_test4_-10-23-12_22-08-55.log.csv,chebychev,967451.0
+all_data/sajin_data/sajin_test2_-10-23-12_21-51-42.log.csv,all_data/sajin_data/sajin_test4_-10-23-12_22-08-55.log.csv,cosine,0.767287764029
+all_data/sajin_data/sajin_test2_-10-23-12_21-51-42.log.csv,all_data/sajin_data/sajin_test4_-10-23-12_22-08-55.log.csv,correlation,5.55111512313e-16
+all_data/sajin_data/sajin_test3_-10-23-12_21-59-36.log.csv,all_data/sajin_data/sajin_test4_-10-23-12_22-08-55.log.csv,euclidean,856.874448276
+all_data/sajin_data/sajin_test3_-10-23-12_21-59-36.log.csv,all_data/sajin_data/sajin_test4_-10-23-12_22-08-55.log.csv,city,530645.726597
+all_data/sajin_data/sajin_test3_-10-23-12_21-59-36.log.csv,all_data/sajin_data/sajin_test4_-10-23-12_22-08-55.log.csv,chebychev,486731.0
+all_data/sajin_data/sajin_test3_-10-23-12_21-59-36.log.csv,all_data/sajin_data/sajin_test4_-10-23-12_22-08-55.log.csv,cosine,0.80560012755
+all_data/sajin_data/sajin_test3_-10-23-12_21-59-36.log.csv,all_data/sajin_data/sajin_test4_-10-23-12_22-08-55.log.csv,correlation,-2.22044604925e-16

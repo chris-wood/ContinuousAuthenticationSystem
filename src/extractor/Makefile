@@ -1,0 +1,3 @@
+trainer:
+	python Trainer.py test/data/Douglas-04-09-12_15-38-27.log test/data/Eitan-04-09-12_14-32-51.log test/data/Joe-04-09-12_20-36-28.log test/data/Nate-04-09-12_14-51-30.log test/data/Sarah-04-09-12_19-50-41.log test/data/Tylar-04-09-12_20-07-32.log test/data/alex-04-10-12_19-13-11.log test/data/anon1776-04-09-12_15-57-52.log test/data/anonymous-04-09-12_15-43-16.log test/data/jfdihdjhvuUWU!!!!!jfd-04-09-12_15-56-56.log test/data/pete-04-10-12_18-59-38.log test/data/tjf1043-04-09-12_15-16-14.log
+	
